@@ -8,6 +8,13 @@ public class Main {
 
 
         SimulationFrame simulationFrame = new SimulationFrame();
+
+        for(int i = 0 ; i <10 ; i++)
+        {
+            System.out.println(i);
+        }
+
+
         Controller controllerNou = new Controller(simulationFrame);
         simulationFrame.setVisible(false);
         int i =0;

@@ -20,6 +20,7 @@ public class Main {
         Controller controllerNou = new Controller(simulationFrame);
         simulationFrame.setVisible(false);
         int i =0;
+        int z =0 ;
     }
 
 }

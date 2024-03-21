@@ -8,7 +8,7 @@ public class Main {
 
 
         SimulationFrame simulationFrame = new SimulationFrame();
-        Controller controllerNou = new Controller(simulationFrame);
+        Controller controllerNew = new Controller(simulationFrame);
         simulationFrame.setVisible(true);
     }
 
